@@ -1,5 +1,5 @@
 {
-    "name": "openHASP2",
+    "name": "openHASP",
     "hacs": "1.6.0",
     "domains": [
         "openHASP",
